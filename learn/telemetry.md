@@ -11,7 +11,7 @@ Telemetry (Ceilometer) provides metering and statistics.  It is proficient in co
 
 ## Meters
 
-A meter is a category of measurements.  Think of it as a metric on KPI.  For a full list of meters please refer to the (OpenStack Ceilometer Meter WIKI)[http://docs.openstack.org/developer/ceilometer/measurements.html#dynamically-retrieving-the-meters-via-ceilometer-client]
+A meter is a category of measurements. Think of it as a metric on KPI. For a full list of meters please refer to this <a href="http://docs.openstack.org/developer/ceilometer/measurements.html">Ceilometer wiki.</a>
 
 #### List available Meters
 
